@@ -23,4 +23,4 @@ The training set and test set could be downloaded from Kaggle [link](https://www
 * KNN (k=5)
 
 ## Acknowledge
->  self project by Kevin Kristian
+>  personal project by Kevin Kristian
